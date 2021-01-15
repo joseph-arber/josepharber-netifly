@@ -1,6 +1,5 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: I'm a data scientist based in London with 2 years of experience in the consulting and analytics industries. My focus area for the past few years has been in helping organisations draw value from their data, but I'm also skilled in scripting and deploying machine-learning models with both Python and R. Outside of work my interest is in anything concerning public-affairs; digital misinformation, social media networks, political polarisation, and institution building. I am really interested in bring innovative ideas to these public spaces! I often bring my thoughts together in my blog, but i also contribute to a newsletter run by some friends over at Polis Analysis.
 education:
   courses:
   - course: PhD in Artificial Intelligence
